@@ -1,0 +1,3 @@
+JavaScript01 - Ambientação -> https://youtu.be/HvtHEf7JWXQ
+JavaScript02 - Var e Let -> https://youtu.be/IKWDnjP3R8U
+JavaScript02 - Const -> https://youtu.be/IQlVuLSdPc8
